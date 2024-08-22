@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881297074140",
+    "project_id": "earlywageaccess",
+    "storage_bucket": "earlywageaccess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881297074140:android:e806c8143a2cc0b67a1119",
+        "android_client_info": {
+          "package_name": "com.ewa.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC23tsLvxE5-G-LbuoseMR4pLdiM13-Gg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
